@@ -33,6 +33,4 @@ class Student
     student
   end
 
-  def
-
 end
