@@ -33,6 +33,6 @@ class Student
     student
   end
 
-  def 
+  def
 
 end
